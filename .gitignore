@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+*.iml
+
+# Environments
+.env
+.venv/
+ENV/
+env/
+venv/
+
+# Data files
+data/
+output/
+*.csv
+*.json
+*.db
+
+# Others
+.DS_Store
